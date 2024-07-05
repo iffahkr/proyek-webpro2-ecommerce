@@ -1,0 +1,22 @@
+.input-group-text {
+    background-color: transparent;
+    border: none;
+  }
+
+  .input-group-text i {
+    font-size: 1.2rem;
+  }
+
+  .form-control:focus {
+    box-shadow: none;
+    border-color: #80bdff;
+  }
+
+  .form-control::placeholder {
+    color: #bfbfbf;
+    font-style: italic;
+  }
+
+  .product-card {
+    border-style: hidden;
+  }

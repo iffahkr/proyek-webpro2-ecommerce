@@ -1,0 +1,4 @@
+NIM : 0110222181
+Nama : Iffah Karimah
+Kelas : TI02
+Teknologi yang dipakai : HTML, CSS, PHP, Bootstrap (include JS)
